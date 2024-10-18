@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Which element has the chemical symbol 'O'?",
+      option1: "Oxygen",
+      option2: "Gold",
+      option3: "Osmium",
+      option4: "Ozone",
+      ans: 1,
+    },
+    {
+      question: "Who wrote the play 'Romeo and Juliet'?",
+      option1: "Charles Dickens",
+      option2: "Mark Twain",
+      option3: "Jane Austen",
+      option4: "William Shakespeare",
+      ans: 4,
+    },
+    {
+      question: "Which planet is known as the Red Planet?",
+      option1: "Mars",
+      option2: "Earth",
+      option3: "Venus",
+      option4: "Jupiter",
+      ans: 1,
+    },
+    {
+      question: "Which country is known as the Land of the Rising Sun?",
+      option1: "China",
+      option2: "South Korea",
+      option3: "Japan",
+      option4: "Thailand",
+      ans: 3,
+    },
+    {
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+  ];
